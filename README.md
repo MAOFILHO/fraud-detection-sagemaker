@@ -19,6 +19,9 @@ Use AWS CloudFormation to create the stack and all the resources, using the frau
 
 <img width="1436" height="624" alt="Screenshot 2026-05-22 at 7 35 15 PM" src="https://github.com/user-attachments/assets/eddce097-d96c-48c0-bd65-2da684bbc10f" />
 
+<img width="1434" height="666" alt="Screenshot 2026-05-22 at 10 38 31 PM" src="https://github.com/user-attachments/assets/273ed60d-9b04-41c3-adab-5ea8d5834873" />
+
+
 
 
 
@@ -124,4 +127,4 @@ Implemented audit logging pipeline with Kinesis Data Firehose streaming predicti
 
 <img width="739" height="703" alt="Screenshot 2026-05-22 at 10 36 31 PM" src="https://github.com/user-attachments/assets/94fdb7e7-caee-4a98-b166-008f711df716" />
 
-<img width="1434" height="666" alt="Screenshot 2026-05-22 at 10 38 31 PM" src="https://github.com/user-attachments/assets/273ed60d-9b04-41c3-adab-5ea8d5834873" />
+
