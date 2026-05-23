@@ -2,6 +2,26 @@ Requirements:
 
 Download link for credicard.csv: https://drive.usercontent.google.com/download?id=11EEHdOollkMh5J9axq5tNBumHfrwMPmS&export=download&authuser=0
 
+Use AWS CloudFormation to create the stack and all the resources, using the fraud-detection-using-machine-learning.yaml file.
+
+<img width="1435" height="667" alt="Screenshot 2026-05-22 at 7 17 30 PM" src="https://github.com/user-attachments/assets/1e88b63b-3c5a-4313-82b0-de16bcc950d2" />
+
+
+<img width="692" height="220" alt="Screenshot 2026-05-22 at 7 24 06 PM" src="https://github.com/user-attachments/assets/f70541d9-431e-48ad-b77a-248734892caa" />
+
+<img width="1434" height="664" alt="Screenshot 2026-05-22 at 7 25 27 PM" src="https://github.com/user-attachments/assets/4fbd7688-a8ce-488d-a5b7-905ef770a9d9" />
+
+<img width="1164" height="574" alt="Screenshot 2026-05-22 at 7 26 36 PM" src="https://github.com/user-attachments/assets/3ee60183-0cd8-480a-8045-d402c74307d6" />
+
+<img width="1432" height="375" alt="Screenshot 2026-05-22 at 7 28 08 PM" src="https://github.com/user-attachments/assets/984efce0-ef14-40bc-a9fa-a379906c95f9" />
+
+<img width="1426" height="619" alt="Screenshot 2026-05-22 at 7 31 45 PM" src="https://github.com/user-attachments/assets/93f43075-7da8-40c8-8ccf-0b9ad65acb73" />
+
+<img width="1436" height="624" alt="Screenshot 2026-05-22 at 7 35 15 PM" src="https://github.com/user-attachments/assets/eddce097-d96c-48c0-bd65-2da684bbc10f" />
+
+
+
+
 Business Use Case
 
 The Problem
