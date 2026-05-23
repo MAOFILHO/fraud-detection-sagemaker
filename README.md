@@ -1,3 +1,7 @@
+Requirements:
+
+Download link for credicard.csv: https://drive.usercontent.google.com/download?id=11EEHdOollkMh5J9axq5tNBumHfrwMPmS&export=download&authuser=0
+
 Business Use Case
 
 The Problem
